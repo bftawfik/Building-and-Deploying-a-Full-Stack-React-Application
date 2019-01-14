@@ -1,4 +1,4 @@
 # Building and Deploying a Full Stack React Application
 ## from Linkedin
-### By Ray Villalobos
+### By Carl Peaslee
 My working files.
